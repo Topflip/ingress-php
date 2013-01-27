@@ -1,0 +1,20 @@
+{
+    "require": {
+        "php": ">=5.3.3",
+        "symfony/dom-crawler": "2.1",
+        "symfony/css-selector": "2.1",
+        "symfony/console": "2.1",
+        "symfony/event-dispatcher": "2.1",
+        "symfony/process": "2.1",
+        "symfony/yaml": "2.1",
+        "symfony/browser-kit": "2.1",
+        "symfony/config": "2.1",
+        "fabpot/goutte": "1.0.*@dev",
+        "doctrine/common": "2.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "Ingress": "src/"
+        }
+    }
+}
