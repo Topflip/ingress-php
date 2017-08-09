@@ -61,8 +61,8 @@ class Crawl
     }
 }
 
-$username = 'florinutz';
-$password = 'iataNumarul7';
+$username = 'xxxx';
+$password = 'xxxx';
 $cookies = 'cookies.txt';
 
 function getFormFields($data)
